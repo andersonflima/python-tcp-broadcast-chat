@@ -1,2 +1,2 @@
-# python-tcp-brodcast-chat
-PYTHON TCP BRODCAST CHAT
+# python-tcp-broadcast-chat
+PYTHON TCP BROADCAST CHAT
