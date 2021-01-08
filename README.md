@@ -1,11 +1,5 @@
 # Python TCP BROADCAST CHAT
 
-This code runs a tcp server to allow any client that connects to it to communicate with others that are also connected
-
-Therefore, start the server with the first command and, with the second, create a connection.
-You can choose a nickname
-
-After these steps, just write what you want in the terminal and press enter to transmit your message
 
 ## Getting Started
 
@@ -16,6 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 python  ^3.8
 ```
+
+# Description
+This code runs a tcp server to allow any client that connects to it to communicate with others that are also connected
+Therefore, start the server with the first command and, with the second, create a connection.
+You can choose a nickname
+After these steps, just write what you want in the terminal and press enter to transmit your message
 
 ### Installing
 
